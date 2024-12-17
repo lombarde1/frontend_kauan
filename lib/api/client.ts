@@ -1,7 +1,7 @@
 import { getUserId } from '../auth/storage';
 import { ApiError } from './types';
 
-const API_URL = 'https://call.evolucaohot.online/api';
+const API_URL = 'https://kcoin.evolucaohot.online/api';
 
 class ApiClient {
   private static instance: ApiClient;
