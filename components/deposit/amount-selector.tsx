@@ -54,7 +54,7 @@ export function AmountSelector({ selectedAmount, onAmountSelect }: AmountSelecto
             type="number"
             value={customAmount}
             onChange={(e) => handleCustomAmountChange(e.target.value)}
-            placeholder="Mínimo R$ 30,00"
+            placeholder=""
             className="pl-8 bg-gray-800/50 border-gray-700 h-12 text-white placeholder-gray-400"
           />
           <span className="absolute left-3 top-1/2 -translate-y-1/2 text-white/60">R$</span>

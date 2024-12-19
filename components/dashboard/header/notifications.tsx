@@ -24,7 +24,7 @@ export function Notifications({ userName }: NotificationsProps) {
     {
       id: 2,
       title: "Bônus de Indicação",
-      message: "Ganhe R$ 50,00 para cada amigo que você indicar!",
+      message: "Ganhe R$ 40,00 para cada amigo que você indicar!",
       time: "5 min atrás",
       isNew: true
     }
@@ -83,7 +83,7 @@ export function Notifications({ userName }: NotificationsProps) {
               <Gift className="h-10 w-10 text-white" />
             </div>
             <div>
-              <h2 className="text-2xl font-bold">Ganhe R$ 50,00!</h2>
+              <h2 className="text-2xl font-bold">Ganhe R$ 40,00!</h2>
               <p className="text-gray-400 mt-2">
                 Para cada amigo que você indicar, você receberá um bônus quando eles se cadastrarem.
               </p>

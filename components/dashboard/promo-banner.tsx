@@ -35,10 +35,10 @@ export function PromoBanner() {
           </div>
           <div className="space-y-1">
             <h3 className="font-semibold text-white text-lg">
-              Ganhe R$ 50,00 por indicação!
+              Ganhe R$ 40,00 por indicação!
             </h3>
             <p className="text-white/80 text-sm">
-              Indique seus amigos e ganhe R$ 50,00 quando eles fizerem o primeiro depósito.
+              Indique seus amigos e Ganhe R$ 40,00 quando eles fizerem o primeiro depósito.
             </p>
           </div>
         </div>
@@ -57,7 +57,7 @@ export function PromoBanner() {
         <div className="grid grid-cols-2 gap-4 mt-4">
           <div className="bg-white/10 backdrop-blur-sm rounded-xl p-3">
             <p className="text-white/60 text-xs">Bônus por Indicação</p>
-            <p className="text-white font-bold text-lg">R$ 50,00</p>
+            <p className="text-white font-bold text-lg">R$ 40,00</p>
           </div>
           <div className="bg-white/10 backdrop-blur-sm rounded-xl p-3">
             <p className="text-white/60 text-xs">Depósito Mínimo</p>

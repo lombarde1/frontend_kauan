@@ -23,7 +23,7 @@ export function StatsCard({ stats }: StatsCardProps) {
             </div>
             <div>
               <h2 className="text-lg font-bold text-white">Carteira de Indicação</h2>
-              <p className="text-sm text-gray-400">Ganhe R$ 50,00 por indicação qualificada</p>
+              <p className="text-sm text-gray-400">Ganhe R$ 40,00 por indicação qualificada</p>
             </div>
           </div>
 

@@ -33,10 +33,10 @@ export function ReferralBanner() {
             </div>
             <div>
               <h3 className="text-lg font-semibold text-white">
-                Ganhe R$ 50,00 por indicação!
+                Ganhe R$ 40,00 por indicação!
               </h3>
               <p className="text-sm text-white/80">
-                Indique seus amigos e ganhe R$ 50,00 quando eles fizerem o primeiro depósito.
+                Indique seus amigos e Ganhe R$ 40,00 quando eles fizerem o primeiro depósito.
               </p>
             </div>
           </div>
@@ -52,7 +52,7 @@ export function ReferralBanner() {
           <div className="grid grid-cols-2 gap-4 mt-4">
             <div className="bg-white/10 backdrop-blur-sm rounded-xl p-3">
               <p className="text-xs text-white/60">Bônus por Indicação</p>
-              <p className="text-lg font-bold text-white">R$ 50,00</p>
+              <p className="text-lg font-bold text-white">R$ 40,00</p>
             </div>
             <div className="bg-white/10 backdrop-blur-sm rounded-xl p-3">
               <p className="text-xs text-white/60">Depósito Mínimo</p>
