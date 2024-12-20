@@ -67,7 +67,7 @@ export function RegisterForm() {
             referralCode: referralCode
           });
           
-          toast.success("Conta criada com sucesso! Bônus de indicação será aplicado após seu primeiro depósito!");
+          toast.success("Finalize seu cadastro para acessar sua conta!");
         } catch (referralError) {
           console.error("Error processing referral:", referralError);
           toast.error("Erro ao processar indicação, mas sua conta foi criada!");
